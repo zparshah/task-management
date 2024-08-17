@@ -11,7 +11,6 @@ This is the frontend of the Task Management System, a web-based application that
 - **Task Search:** Users can search for tasks by title or content, making it easy to find specific tasks.
 - **Task Sorting:** Tasks can be sorted based on priority or deadline.
 - **Responsive Design:** The UI is fully responsive, ensuring compatibility across devices.
-
 ## **Technology Stack**
 
 - **HTML/CSS:** For the structure and styling of the web pages.
